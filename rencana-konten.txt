@@ -11,3 +11,5 @@ Rencana Konten
   * Website
   * Template
   * Image
+- Konten Easy Life
+ * Membuat Konten tentang mempermudah Hidup
