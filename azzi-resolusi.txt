@@ -3,3 +3,4 @@ Azzi resolusi
 - membuat website untuk portofolio
 - membuat website Azcorp ID
 - membuat Website Vigilaz ID
+- membuat Web Shop
