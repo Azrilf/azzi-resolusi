@@ -1,5 +1,13 @@
 Rencana Konten
 - edukasi dasar programer
-- edukasi CCTV
+- Konten CCTV
+  * Edukasi CCTV
+  * Meme CCTV
+  * Viral Video
 - edukasi Smart Tech
--
+  * Smart Home
+  * Smart Office
+- Edukasi Produk Digital
+  * Website
+  * Template
+  * Image
